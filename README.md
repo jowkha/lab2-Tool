@@ -6,8 +6,8 @@
 
 **Name** : Thanida Samniang
 
-> *King mongkut's institute of technology ladkrabang*
+> *[King mongkut's institute of technology ladkrabang](www.kmitl.ac.th)*
 
 ~~~
-print("Hello word")
+print("Hello Ladkrabang")
 ~~~
