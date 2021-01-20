@@ -6,8 +6,9 @@
 
 **Name** : Thanida Samniang
 
-> *King mongkut's institute of technology ladkrabang*
+> *[IT @ KMITL](www.it.kmitl.ac.th)*
 
 ~~~
-print("Hello word")
+print("Hello word, IT @ KMITL")
 ~~~
+[![Alt text](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
